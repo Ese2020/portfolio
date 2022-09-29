@@ -1,0 +1,36 @@
+.nav {
+    background: #780116;
+    color: white;
+}
+
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    font-size: 1rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+    line-height: 1.1;
+    font-weight: 700;
+}
+
+.down-btn {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 16px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}

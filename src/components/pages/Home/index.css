@@ -1,0 +1,37 @@
+.home {
+    padding: 20px;
+    height: 75vh;
+    color: black;
+}
+
+.home-text {
+    text-align: left;
+    padding: 100px;
+}
+
+.home-ptext {
+    font-weight: 500;
+    margin-top: 4px;
+}
+
+.home-ptext2 {
+    width: 45%;
+    font-weight: 400;
+    margin-top: 4px;
+    text-align: justify;
+}
+
+.fs-3 {
+    font-size: 4.5rem;
+}
+
+.hero-btn {
+    background-color: #780116;
+    color: white;
+    padding: 16px;
+    border: none;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 16px;
+}

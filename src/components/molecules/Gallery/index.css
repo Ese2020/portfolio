@@ -1,0 +1,45 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 64px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding: 0 100px;
+    height: 70vh;
+    margin-bottom: 120px;
+}
+
+.grid:last-child {
+    margin-right: 0px;
+}
+
+.grid1,
+.grid2 {
+    background-image: url(../../../asset/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 250px;
+}
+
+.grid-text {
+    text-align: justify;
+    margin-top: 270px;
+}
+
+.co-head {
+    color: #780116;
+}
+
+.grid-btn {
+    background-color: #780116;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 16px;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    margin-top: 16px;
+}

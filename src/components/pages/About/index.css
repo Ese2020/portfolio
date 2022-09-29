@@ -1,0 +1,50 @@
+.about {
+    display: flex;
+    align-items: center;
+    background: #780116;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+    gap: 32px;
+    padding: 20px 100px;
+    height: 100vh;
+}
+
+.about-img {
+    background-image: url(../../../asset/Ep.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 500px;
+    border-radius: 8px;
+}
+
+.about-header {
+    text-align: left;
+    line-height: 1.7;
+}
+
+.about-text {
+    text-align: justify;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.about-details {
+    width: 50%;
+}
+
+.about-btn {
+    background-color: white;
+    border: none;
+    padding: 16px;
+    color: #780116;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 16px;
+}

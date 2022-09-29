@@ -1,0 +1,25 @@
+footer {
+    background: #801025;
+    color: white;
+    height: 30vh;
+}
+
+.footer-text {
+    padding-top: 32px;
+    text-align: center;
+}
+
+.footer-ptext {
+    font-size: 14px;
+    color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.social-media {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
